@@ -1,2 +1,0 @@
-# BlackJack
-Python - Black Jack
